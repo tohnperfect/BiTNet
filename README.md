@@ -1,2 +1,2 @@
-# BiTnet
-BiTnet Project Page
+# BiTNet
+BiTNet Project Page
