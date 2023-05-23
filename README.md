@@ -1,2 +1,2 @@
 # BiTNet
-BiTNet Project Page
+BiTNet Project Page link https://tohnperfect.github.io/BiTNet/
